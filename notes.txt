@@ -1,5 +1,0 @@
-// Errors
-It looks like the errors in helpers.js getJSON function propegates the errors down to model.js loadRecipe functin,
-which again propegates the error to the controller.js where the errors will be dealt with approperiatly.
-
-
