@@ -6,7 +6,7 @@ The application lets you:
 - Search for recipe.
 - Create your own recipe.
 - Bookmark a recipe.
-- Calculates the amount of ingrediants based on the amount of people you are cooking for.
+- Calculates the amount of ingrediants needed based on the amount of people you are cooking for.
 
 Deployed version: https://beamish-sunburst-196ccd.netlify.app
 
